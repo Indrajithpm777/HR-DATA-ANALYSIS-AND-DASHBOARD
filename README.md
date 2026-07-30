@@ -45,8 +45,8 @@ Project/
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](IMAGES/PAGE1.png)
-![Dashboard Preview](IMAGES/PAGE2.png)
+![IMAGES](IMAGES/PAGE1.png)
+![IMAGES](IMAGES/PAGE2.png)
 ---
 
 ## 📈 Key Insights
